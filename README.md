@@ -6,9 +6,8 @@
 
 Building production-ready AI applications with **LangGraph**, **FastAPI**, **React**, and **real-time voice AI**.
 
-[Portfolio](https://yourportfolio.com) •
-[LinkedIn](https://linkedin.com/in/yourprofile) •
-[Resume](#) •
+[Portfolio](https://portofolio.muhammadakbartr11.workers.dev/#work) •
+[LinkedIn](https://portofolio.muhammadakbartr11.workers.dev/#work) •
 [Email](mailto:Muhammadakbartr11@gmail.com)
 
 </div>
